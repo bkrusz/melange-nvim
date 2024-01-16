@@ -1,4 +1,3 @@
-vim.cmd 'highlight clear'
 vim.cmd 'syntax reset'
 vim.g.colors_name = 'melange'
 
